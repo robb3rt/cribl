@@ -1,0 +1,1 @@
+{"name":"LogStream","version":"4.6.0-b495abf6","dependencies":{"HelloPacks":"file:/opt/cribl/groups/default_fleet/default/HelloPacks","cribl":"file:/opt/cribl/groups/default_fleet/default/cribl","edge":"file:/opt/cribl/groups/default_fleet/default/edge"}}
