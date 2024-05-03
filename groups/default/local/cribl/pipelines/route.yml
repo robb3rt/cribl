@@ -7,7 +7,7 @@ routes:
     final: true
     disabled: false
     pipeline: main
-    description: test
+    description: test2
     clones: []
     enableOutputExpression: false
     outputExpression: null
